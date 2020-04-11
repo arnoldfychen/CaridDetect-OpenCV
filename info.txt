@@ -1,0 +1,2 @@
+除给班班提交作业代码之外，可以把自己的代码放在github上或者gitee.com上，github连接慢的同学可以放在https://gitee.com/上，gitee的使用方法与github一样，连接更快。
+
